@@ -1,0 +1,28 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "amount": "100",
+      "currency": "USD",
+      "comment": "pay"
+    },
+    {
+      "id": "2",
+      "amount": "200",
+      "currency": "USD",
+      "comment": "pay"
+    },
+    {
+      "id": "3",
+      "amount": "500",
+      "currency": "USD",
+      "comment": "pay"
+    },
+    {
+      "id": "4",
+      "amount": "700",
+      "currency": "RUB",
+      "comment": "pay"
+    },
+  ]
+}
